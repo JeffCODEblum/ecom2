@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/a1b469fe-e739-4e81-959b-338b88c7e8d1/resourceGroups/DefaultResourceGroup-EUS/providers/Microsoft.Web/sites/ecom2",
+    "appService.deploySubpath": "."
+}
